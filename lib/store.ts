@@ -38,7 +38,7 @@ const seedUsers: User[] = [
     id: 'user-1',
     name: 'Alex Rivera',
     email: 'alex@example.com',
-    password: '$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', // password
+    password: 'demo:demo', // password
     avatar: 'AR',
     createdAt: new Date(Date.now() - 86400000 * 10).toISOString(),
   },
